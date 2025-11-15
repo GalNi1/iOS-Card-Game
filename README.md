@@ -14,8 +14,8 @@ This project is a SwiftUI iOS app built in Xcode. All images and assets required
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/GalNi1/iOSCardGame.git
-cd iOSCardGame
+git clone https://github.com/GalNi1/iOS-Card-Game.git
+cd iOS-Card-Game
 ```
 
 ### **2. Open the project in Xcode**
